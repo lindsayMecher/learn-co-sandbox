@@ -1,0 +1,49 @@
+HTML is used for structure
+CSS is used for styling, aesthetic.
+
+Presentation rules:
+1. What is specific HTML we want to style?
+2. What are the qualities we want to modify?
+3. How do we want to modify the qualities of the element? font-family, font-color etc?
+
+/* CSS Comment */
+
+
+Type of HTML element
+Value of an element's id or class
+Value of an element's attributes
+The element's relationship with surrounding elements
+
+Class selectors are used to select all elements that share a given class name.
+
+class-indicator syntax    .classname
+
+
+.important-topic
+
+.helpful-hint
+
+id selector syntax  #idvalue
+
+#main-header
+
+#welcome-message
+
+CSS Properties
+
+color   text-align   line-height
+
+red #000666
+
+declaration block with {}
+
+selector {
+  color: blue;
+  }
+  
+  h1 {
+  color: blue;
+  font-family: Georgia;
+  }
+  
+  
